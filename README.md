@@ -1,86 +1,56 @@
 # 👋 Hi, I'm Shivam Kumar
 
-🚀 **Software Engineer | Backend Engineer | Distributed Systems Enthusiast**
-
-I build scalable backend systems, high-performance APIs, and event-driven architectures that power real-world products used by thousands of businesses. Passionate about solving complex engineering challenges with clean architecture, efficient data pipelines, and scalable microservices.
+🚀 Software Engineer focused on building scalable backend systems, APIs, and distributed applications. Passionate about solving engineering problems and designing efficient systems.
 
 ---
 
 ## 🛠️ About Me
 
-* 💻 2+ years of experience building scalable backend systems using **Go, Node.js, FastAPI, and Java**.
-* ⚡ Experienced in designing **microservices**, **real-time analytics pipelines**, and **high-throughput distributed systems**.
-* 📊 Worked extensively with **Kafka, ClickHouse, Redis, PostgreSQL, MongoDB, and AWS cloud infrastructure**.
-* 🚀 Built systems processing **70M+ events/day** and applications serving **15,000+ merchants**.
-* 🌱 Exploring **system design, distributed systems, performance optimization, and cloud-native architectures**.
-* 🧠 Strong foundation in **DSA, DBMS, Operating Systems, and Computer Networks**.
-* ✨ Enjoy contributing to impactful products and continuously learning scalable engineering practices.
+* 💻 Backend Engineer with experience in Go, Node.js, FastAPI, and microservices
+* ⚡ Built scalable systems handling millions of events and thousands of merchants
+* ☁️ Worked with Kafka, Redis, ClickHouse, PostgreSQL, MongoDB, and AWS
+* 🌱 Interested in system design, distributed systems, and performance optimization
+* 🧠 Strong foundation in DSA, DBMS, OS, and Computer Networks
 
 ---
 
-# 🔧 Tech Stack
+## 🔧 Tech Stack
 
-### 🚀 Backend & APIs
-
-Go (Golang) • Node.js • NestJS • Express.js • FastAPI • Spring Boot • REST APIs • Microservices
-
-### 📦 Databases & Messaging
-
-PostgreSQL • MongoDB • Redis • ClickHouse • Kafka • SQL
-
-### ☁️ Cloud & DevOps
-
-AWS (Lambda, SQS, ECS, EC2, S3) • Docker • Kubernetes • GitHub Actions • GitLab CI/CD
-
-### 💻 Languages
-
-Go • JavaScript • TypeScript • Python • Java • C++ • Bash
-
-### 🎨 Frontend
-
-React.js • HTML • CSS
+**Backend:** Go, Node.js, NestJS, FastAPI, Spring Boot
+**Databases:** PostgreSQL, MongoDB, Redis, ClickHouse
+**Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions
+**Languages:** Go, JavaScript, TypeScript, Python, Java
+**Frontend:** React.js
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## Software Engineer I — GoKwik
+### Software Engineer I — GoKwik
 
-📍 Bengaluru, India | Sep 2025 – Present
+* Built real-time analytics and backend systems for e-commerce merchants
+* Worked on event-driven architectures using Kafka, ClickHouse, and AWS
+* Optimized high-scale services handling millions of daily events
 
-* Built real-time analytics pipelines in ClickHouse processing millions of events daily.
-* Designed scalable backend APIs for subscription management and customer segmentation workflows.
-* Optimized high-throughput event consumers handling 70M+ WhatsApp events/day.
-* Developed event-driven systems using AWS Lambda and SQS for asynchronous processing.
-* Contributed to workflow automation and marketing orchestration products for e-commerce merchants.
+### Software Engineer I — Credflow
 
----
-
-## Software Engineer I — Credflow
-
-📍 Noida, India | Jun 2023 – Apr 2024
-
-* Built scalable APIs and microservices for enterprise financial automation products.
-* Reduced infrastructure costs by 40% through optimized service worker architecture.
-* Developed notification systems delivering financial insights through Email, SMS, and WhatsApp.
-* Solved cross-service production issues across distributed systems and backend services.
+* Developed scalable APIs and financial automation systems
+* Built notification and data synchronization services
+* Improved system performance and reduced infrastructure costs
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-* Solved **350+ DSA problems** across LeetCode, CodeChef, and GeeksForGeeks.
-* Strong interest in **low-level system design and scalable backend engineering**.
-* HackerRank Problem Solving Certified.
-
----
-
-# 📫 Connect With Me
-
-* 📧 Email: [shivam.fot409@gmail.com](mailto:shivam.fot409@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/shivamkumar12
-* 🖥️ GitHub: https://github.com/Shivamk4090
+* Solved 350+ DSA problems across coding platforms
+* HackerRank Problem Solving Certified
 
 ---
 
-⭐ *Always open to collaborating on scalable backend systems, distributed architectures, and impactful engineering projects.*
+## 📫 Connect
+
+* 📧 [shivam.fot409@gmail.com](mailto:shivam.fot409@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/shivamkumar12
+* 🖥️ GitHub: github.com/Shivamk4090
+
+⭐ Open to collaborating on backend engineering and scalable systems.
