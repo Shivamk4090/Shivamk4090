@@ -6,7 +6,7 @@
 
 ## 🛠️ About Me
 
-* 💻 Backend Engineer with experience in Go, Node.js, FastAPI, and microservices
+* 💻 Backend Engineer with experience in Go, Node.js, FastAPI, Spring Boot, and microservices
 * ⚡ Built scalable systems handling millions of events and thousands of merchants
 * ☁️ Worked with Kafka, Redis, ClickHouse, PostgreSQL, MongoDB, and AWS
 * 🌱 Interested in system design, distributed systems, and performance optimization
@@ -16,11 +16,11 @@
 
 ## 🔧 Tech Stack
 
-**Backend:** Go, Node.js, NestJS, FastAPI, Spring Boot
-**Databases:** PostgreSQL, MongoDB, Redis, ClickHouse
-**Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions
-**Languages:** Go, JavaScript, TypeScript, Python, Java
-**Frontend:** React.js
+* **Backend:** Go, Node.js, NestJS, FastAPI, Spring Boot
+* **Databases:** PostgreSQL, MongoDB, Redis, ClickHouse 
+* **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions 
+* **Languages:** Go, JavaScript, TypeScript, Python, Java 
+* **Frontend:** React.js 
 
 ---
 
@@ -50,7 +50,7 @@
 ## 📫 Connect
 
 * 📧 [shivam.fot409@gmail.com](mailto:shivam.fot409@gmail.com)
-* 💼 LinkedIn: linkedin.com/in/shivamkumar12
+* 💼 LinkedIn: https://linkedin.com/in/shivamkumar12
 * 🖥️ GitHub: github.com/Shivamk4090
 
 ⭐ Open to collaborating on backend engineering and scalable systems.
